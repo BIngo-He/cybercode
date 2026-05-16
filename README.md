@@ -1,7 +1,14 @@
 <div align="center">
-<b>Cyber Code
 
-  
+```
+ ██████╗██╗   ██╗██████╗ ███████╗██████╗      ██████╗ ██████╗ ██████╗ ███████╗
+ ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗    ██╔════╝██╔═══██╗██╔══██╗██╔════╝
+ ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝    ██║     ██║   ██║██║  ██║█████╗  
+ ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗    ██║     ██║   ██║██║  ██║██╔══╝  
+ ╚██████╗   ██║   ██████╔╝███████╗██║  ██║    ╚██████╗╚██████╔╝██████╔╝███████╗
+ ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝     ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
+```
+
 [![Cyber Code](https://img.shields.io/badge/Cyber_Code-1.0.0-purple.svg?logo=cyberpunk)](#)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![LangGraph](https://img.shields.io/badge/LangGraph-1.x-blue.svg)](https://langchain-ai.github.io/langgraph/)
