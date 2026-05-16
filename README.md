@@ -1,6 +1,4 @@
 <div align="center">
-# Cyber Code
-
 ### **当 AI 开始"黑箱操作"，你需要一双透视眼**
 
 [![Cyber Code](https://img.shields.io/badge/Cyber_Code-1.0.0-purple.svg?logo=cyberpunk)](#)
